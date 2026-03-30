@@ -11,7 +11,7 @@ Thank you to everyone who has contributed to Stellar Wave Hub! Add yourself belo
 
 **Template:**
 
-```html
+````html
 <div
 	style="display:inline-block;width:130px;vertical-align:top;text-align:center;margin:8px"
 >
@@ -175,10 +175,39 @@ Thank you to everyone who has contributed to Stellar Wave Hub! Add yourself belo
 		<br />
 		<sub>Researcher — PetChain</sub>
 	</div>
+
+	<div
+		style="display:inline-block;width:130px;vertical-align:top;text-align:center;margin:8px"
+	>
+		<a href="https://github.com/Listoncrypt">
+			<img
+				src="https://avatars.githubusercontent.com/u/148651773?v=4&size=64"
+				width="80"
+				style="border-radius:50%"
+				alt="Uchenna Ebube"
+			/>
+			<br />
+			<sub><b>Uchenna Ebube</b></sub>
+		</a>
+		<br />
+		<a href="https://github.com/Listoncrypt"
+			><img
+				src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square"
+				alt="GitHub"
+		/></a>
+		<a href="https://x.com/listoncrypt"
+			><img
+				src="https://img.shields.io/badge/-X-000000?logo=x&logoColor=white&style=flat-square"
+				alt="X"
+		/></a>
+		<br />
+		<sub>Researcher — Trustless Work Smart Escrow</sub>
+	</div>
+
 	<!-- Add your <div> above this line -->
 </div>
 <!-- CONTRIBUTORS-END -->
-```
+````
 
 ## Roles
 
