@@ -184,6 +184,7 @@ Replace `YOUR_GITHUB_USERNAME`, `Your Name`, `YOUR_X_HANDLE`, and the role/proje
 		<br />
 		<sub>Researcher — PetChain</sub>
 	</div>
+
 	<div
 		style="display:inline-block;width:130px;vertical-align:top;text-align:center;margin:8px"
 	>
@@ -211,6 +212,7 @@ Replace `YOUR_GITHUB_USERNAME`, `Your Name`, `YOUR_X_HANDLE`, and the role/proje
 		<br />
 		<sub>Researcher — Trustless Work Smart Escrow</sub>
 	</div>
+
 	<!-- Add your <div> above this line -->
 </div>
 <!-- CONTRIBUTORS-END -->
