@@ -7,7 +7,7 @@ Thank you to everyone who has contributed to Stellar Wave Hub! Add yourself belo
 1. Fork the repo and create a branch
 2. Copy the template below and fill in your details
 3. Add it inside the `<!-- CONTRIBUTORS-START -->` section
-4. Open a PR with the title: `docs: add [your-name] to contributors`
+4. Open a PR with the title: `docs: add [Timothy2025-20] to contributors`
 
 **Template:**
 
@@ -15,9 +15,9 @@ Thank you to everyone who has contributed to Stellar Wave Hub! Add yourself belo
 <div
 	style="display:inline-block;width:130px;vertical-align:top;text-align:center;margin:8px"
 >
-	<a href="https://github.com/YOUR_GITHUB_USERNAME">
+	<a href="https://github.com/Timothy2025-20">
 		<img
-			src="https://github.com/YOUR_GITHUB_USERNAME.png"
+			src="https://github.com/Timothy2025-20.png"
 			width="80"
 			style="border-radius:50%"
 			alt="Your Name"
@@ -26,7 +26,7 @@ Thank you to everyone who has contributed to Stellar Wave Hub! Add yourself belo
 		<sub><b>Your Name</b></sub>
 	</a>
 	<br />
-	<a href="https://github.com/YOUR_GITHUB_USERNAME"
+	<a href="https://github.com/Timothy2025-20"
 		><img
 			src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square"
 			alt="GitHub"
@@ -262,6 +262,23 @@ Replace `YOUR_GITHUB_USERNAME`, `Your Name`, `YOUR_X_HANDLE`, and the role/proje
 	<!-- Add your <div> above this line -->
 </div>
 <!-- CONTRIBUTORS-END -->
+
+<div style="display:inline-block;width:130px;vertical-align:top;text-align:center;margin:8px">
+  <a href="https://github.com/Timothy2025-20">
+    <img src="https://github.com/Timothy2025-20.png" width="80" style="border-radius:50%" alt="Timothy2025-20" />
+    <br />
+    <sub><b>Timothy Joshua</b></sub>
+  </a>
+  <br />
+  <a href="https://github.com/Timothy2025-20">
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub" />
+  </a>
+  <a href="https://x.com/Josh_timo20">
+    <img src="https://img.shields.io/badge/-X-000000?logo=x&logoColor=white&style=flat-square" alt="X" />
+  </a>
+  <br />
+  <sub>Researcher — Payabroad</sub>
+</div>
 ```
 
 ## Roles
@@ -270,4 +287,3 @@ Replace `YOUR_GITHUB_USERNAME`, `Your Name`, `YOUR_X_HANDLE`, and the role/proje
 - **Reviewer** — Rated and reviewed submitted projects
 - **Developer** — Contributed code to the platform
 - **Maintainer** — Core team maintaining the project
-\n- [Timothy2025-20](https://github.com/Timothy2025-20) - Added [Project Name]
