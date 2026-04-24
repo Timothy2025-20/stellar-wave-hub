@@ -277,7 +277,7 @@ Replace `YOUR_GITHUB_USERNAME`, `Your Name`, `YOUR_X_HANDLE`, and the role/proje
     <img src="https://img.shields.io/badge/-X-000000?logo=x&logoColor=white&style=flat-square" alt="X" />
   </a>
   <br />
-  <sub>Researcher — Payabroad</sub>
+  <sub>Researcher — stellar-wave-hub</sub>
 </div>
 ```
 
